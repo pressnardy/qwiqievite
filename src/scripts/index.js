@@ -8,7 +8,7 @@ const generalAds = document.getElementById("general-ads");
 
 const cardHTML = `
     <div class="image-wrapper">
-      <img src="assets/images/escort.jpg" alt="Card Image" class="card-image">
+      <img src="public/assets/images/escort.jpg" alt="Card Image" class="card-image">
       <div class="transparent-details">
         <div class="escort-name">Diana</div>
         <div class="escort-location">Thika</div>
@@ -125,7 +125,7 @@ counties.forEach(county => {
     countyElement.innerHTML = `
         <div class="county-name">
             ${county.name.charAt(0).toUpperCase() + county.name.slice(1)}
-            <img src="assets/svg/heart.svg" alt="caret-down-solid" class="caret">
+            <img src="public/assets/svg/heart.svg" alt="caret-down-solid" class="caret">
         </div>
         <ul class="towns" style="display: none;">
             ${county.towns.map(town => `<li class="town">${town.charAt(0).toUpperCase() + town.slice(1)}</li>`).join('')}
