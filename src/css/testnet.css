@@ -1,0 +1,10 @@
+.ads-grid {
+    min-height: 300px;
+    /* max-width: 1200px; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* gap: 12px; */
+    width: 90%;
+    grid-auto-rows: 480px;
+    row-gap: 12px;
+}

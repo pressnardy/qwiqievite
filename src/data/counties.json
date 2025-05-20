@@ -1,0 +1,191 @@
+[
+    {
+    "name": "Mombasa",
+    "towns": ["Mombasa", "Nyali", "Likoni", "Changamwe", "Kisauni"]
+    },
+    {
+    "name": "Kwale",
+    "towns": ["Kwale", "Ukunda", "Diani", "Msambweni", "Lunga Lunga"]
+    },
+    {
+    "name": "Kilifi",
+    "towns": ["Kilifi", "Malindi", "Watamu", "Mariakani", "Kaloleni"]
+    },
+    {
+    "name": "Tana River",
+    "towns": ["Hola", "Garsen", "Bura", "Kipini", "Madogo"]
+    },
+    {
+    "name": "Lamu",
+    "towns": ["Lamu", "Mokowe", "Hindi", "Mpeketoni", "Kiunga"]
+    },
+    {
+    "name": "Taita Taveta",
+    "towns": ["Voi", "Taveta", "Wundanyi", "Mwatate", "Maungu"]
+    },
+    {
+    "name": "Garissa",
+    "towns": ["Garissa", "Dadaab", "Masalani", "Balambala", "Hulugho"]
+    },
+    {
+    "name": "Wajir",
+    "towns": ["Wajir", "Griftu", "Habaswein", "Eldas", "Buna"]
+    },
+    {
+    "name": "Mandera",
+    "towns": ["Mandera", "El Wak", "Rhamu", "Takaba", "Banisa"]
+    },
+    {
+    "name": "Marsabit",
+    "towns": ["Marsabit", "Moyale", "Sololo", "Laisamis", "North Horr"]
+    },
+    {
+    "name": "Isiolo",
+    "towns": ["Isiolo", "Garbatulla", "Kinna", "Merti", "Oldonyiro"]
+    },
+    {
+    "name": "Meru",
+    "towns": ["Meru", "Maua", "Nkubu", "Timau", "Laare"]
+    },
+    {
+    "name": "Tharaka Nithi",
+    "towns": ["Chuka", "Kathwana", "Marimanti", "Gatunga", "Chiakariga"]
+    },
+    {
+    "name": "Embu",
+    "towns": ["Embu", "Runyenjes", "Siakago", "Kiritiri", "Manyatta"]
+    },
+    {
+    "name": "Kitui",
+    "towns": ["Kitui", "Mwingi", "Mutomo", "Kyuso", "Kabati"]
+    },
+    {
+    "name": "Machakos",
+    "towns": ["Machakos", "Mlolongo", "Kangundo", "Athi River", "Tala"]
+    },
+    {
+    "name": "Makueni",
+    "towns": ["Wote", "Makindu", "Kibwezi", "Mtito Andei", "Emali"]
+    },
+    {
+    "name": "Nyandarua",
+    "towns": ["Ol Kalou", "Engineer", "Njabini", "Ndaragwa", "Kinangop"]
+    },
+    {
+    "name": "Nyeri",
+    "towns": ["Nyeri", "Karatina", "Othaya", "Mukurweini", "Mweiga"]
+    },
+    {
+    "name": "Kirinyaga",
+    "towns": ["Kerugoya", "Kutus", "Sagana", "Wang'uru", "Kagio"]
+    },
+    {
+    "name": "Murang'a",
+    "towns": ["Murang'a", "Kangema", "Maragua", "Kenol", "Kandara"]
+    },
+    {
+    "name": "Kiambu",
+    "towns": ["Kiambu", "Thika", "Ruiru", "Limuru", "Githunguri"]
+    },
+    {
+    "name": "Turkana",
+    "towns": ["Lodwar", "Kakuma", "Lokichogio", "Lokori", "Kalokol"]
+    },
+    {
+    "name": "West Pokot",
+    "towns": ["Kapenguria", "Chepareria", "Ortum", "Sigor", "Kacheliba"]
+    },
+    {
+    "name": "Samburu",
+    "towns": ["Maralal", "Baragoi", "Wamba", "Suguta Marmar", "Archers Post"]
+    },
+    {
+    "name": "Trans Nzoia",
+    "towns": ["Kitale", "Kiminini", "Endebess", "Saboti", "Kaplamai"]
+    },
+    {
+    "name": "Uasin Gishu",
+    "towns": ["Eldoret", "Turbo", "Moiben", "Burnt Forest", "Ziwa"]
+    },
+    {
+    "name": "Elgeyo Marakwet",
+    "towns": ["Iten", "Kapsowar", "Chepkorio", "Tambach", "Chesongoch"]
+    },
+    {
+    "name": "Nandi",
+    "towns": ["Kapsabet", "Nandi Hills", "Mosoriot", "Kabiyet", "Lessos"]
+    },
+    {
+    "name": "Baringo",
+    "towns": ["Kabarnet", "Eldama Ravine", "Marigat", "Mogotio", "Tenges"]
+    },
+    {
+    "name": "Laikipia",
+    "towns": ["Nanyuki", "Nyahururu", "Rumuruti", "Kinamba", "Wiyumiririe"]
+    },
+    {
+    "name": "Nakuru",
+    "towns": ["Nakuru", "Naivasha", "Gilgil", "Molo", "Njoro"]
+    },
+    {
+    "name": "Narok",
+    "towns": ["Narok", "Kilgoris", "Suswa", "Ololulung'a", "Ewaso Ng'iro"]
+    },
+    {
+    "name": "Kajiado",
+    "towns": ["Kajiado", "Ngong", "Kitengela", "Ongata Rongai", "Loitokitok"]
+    },
+    {
+    "name": "Kericho",
+    "towns": ["Kericho", "Litein", "Londiani", "Kipkelion", "Chepseon"]
+    },
+    {
+    "name": "Bomet",
+    "towns": ["Bomet", "Sotik", "Silibwet", "Longisa", "Mulot"]
+    },
+    {
+    "name": "Kakamega",
+    "towns": ["Kakamega", "Mumias", "Butere", "Malava", "Shinyalu"]
+    },
+    {
+    "name": "Vihiga",
+    "towns": ["Vihiga", "Mbale", "Luanda", "Chavakali", "Hamisi"]
+    },
+    {
+    "name": "Bungoma",
+    "towns": ["Bungoma", "Webuye", "Kimilili", "Chwele", "Sirisia"]
+    },
+    {
+    "name": "Busia",
+    "towns": ["Busia", "Malaba", "Nambale", "Port Victoria", "Funyula"]
+    },
+    {
+    "name": "Siaya",
+    "towns": ["Siaya", "Bondo", "Ugunja", "Ukwala", "Yala"]
+    },
+    {
+    "name": "Kisumu",
+    "towns": ["Kisumu", "Ahero", "Maseno", "Muhoroni", "Nyamasaria"]
+    },
+    {
+    "name": "Homa Bay",
+    "towns": ["Homa Bay", "Mbita", "Oyugis", "Kendu Bay", "Ndhiwa"]
+    },
+    {
+    "name": "Migori",
+    "towns": ["Migori", "Awendo", "Rongo", "Kehancha", "Isebania"]
+    },
+    {
+    "name": "Kisii",
+    "towns": ["Kisii", "Ogembo", "Nyamache", "Suneka", "Keumbu"]
+    },
+    {
+    "name": "Nyamira",
+    "towns": ["Nyamira", "Keroka", "Nyansiongo", "Ekerenyo", "Manga"]
+    },
+    {
+    "name": "Nairobi",
+    "towns": ["Nairobi", "Eastleigh", "Karen", "Westlands", "Lang'ata"]
+    }
+]
+

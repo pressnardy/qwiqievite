@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Options</title>
+    <link rel="stylesheet" href="css/register.css">
+</head>
+<body>
+    <div class="section-container">
+        <div class="section">
+            <h2>Register as Escort</h2>
+            <ul>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Add a single profile
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Add profile pictures
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Add contact information
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    A lot more
+                </li>
+            </ul>
+            <p class="price">Free</p>
+            <a href="#escort-registration" class="register-button">Register here ></a>
+        </div>
+
+        <div class="section">
+            <h2>Register as Agency</h2>
+            <ul>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Manage all your escorts under one account
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Add profile pictures
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    Add contact information
+                </li>
+                <li>
+                    <img src="assets/svg/checkmark.svg" alt="checkmark" class="icon">
+                    A lot more
+                </li>
+            </ul>
+            <p class="price">Free</p>
+            <a href="#agency-registration" class="register-button">Register here ></a>
+        </div>
+
+        <!-- <div class="section">
+            <h2>Register as Normal User</h2>
+            <ul>
+                <li>Mark favorite profiles</li>
+                <li>See profile photos</li>
+                <li>Can contact escorts</li>
+                <li>Can add reviews to escorts and rate them</li>
+            </ul>
+            <p class="price">Free</p>
+            <a href="#" class="register-button">Register here ></a>
+        </div> -->
+    </div>
+    <section id="agency-registration" class="registration-section">
+        <div id="agency-title" class="bg-black color-white">
+            <h2>Register as Agency</h2> 
+        </div>
+        <div id="agency-form" class="form-wrapper">
+            <form action="#" method="post" class="registration-form">
+                <label for="agency-name">Agency Name:</label>
+                <input type="text" id="agency-name" name="agency-name" required class="form-input">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required class="form-input">
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required class="form-input">
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required class="form-input">
+
+                <label for="password">Confirm Password:</label>
+                <input type="password" id="password" name="password" required class="form-input">
+
+                <button type="submit" class="register-button">Register</button>
+            </form>
+        </div>
+    </section>
+    <section id="escort-registration" class="registration-section">
+        <div id="escort-title" class="bg-black color-white">
+            <h2>Register as Escort</h2> 
+        </div>
+        <div id="escort-form" class="form-wrapper">
+            <form action="#" method="post" class="registration-form">
+                <label for="escort-name">User Name:</label>
+                <input type="text" id="escort-name" name="escort-name" required class="form-input">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required class="form-input">
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required class="form-input">
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required class="form-input">
+
+                <label for="password">Confirm Password:</label>
+                <input type="password" id="password" name="password" required class="form-input">
+
+                <button type="submit" href="#" class="register-button">Register</button>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
